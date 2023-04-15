@@ -1,0 +1,17 @@
+C:\Users\Emir\source\repos\Demo_ETradeApp\BuisnessLayer\obj\Debug\net6.0\BuisnessLayer.csproj.AssemblyReference.cache
+C:\Users\Emir\source\repos\Demo_ETradeApp\BuisnessLayer\obj\Debug\net6.0\BuisnessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir\source\repos\Demo_ETradeApp\BuisnessLayer\obj\Debug\net6.0\BuisnessLayer.AssemblyInfoInputs.cache
+C:\Users\Emir\source\repos\Demo_ETradeApp\BuisnessLayer\obj\Debug\net6.0\BuisnessLayer.AssemblyInfo.cs
+C:\Users\Emir\source\repos\Demo_ETradeApp\BuisnessLayer\obj\Debug\net6.0\BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Emir\source\repos\Demo_ETradeApp\BuisnessLayer\bin\Debug\net6.0\BuisnessLayer.deps.json
+C:\Users\Emir\source\repos\Demo_ETradeApp\BuisnessLayer\bin\Debug\net6.0\BuisnessLayer.dll
+C:\Users\Emir\source\repos\Demo_ETradeApp\BuisnessLayer\bin\Debug\net6.0\BuisnessLayer.pdb
+C:\Users\Emir\source\repos\Demo_ETradeApp\BuisnessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\Emir\source\repos\Demo_ETradeApp\BuisnessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\Emir\source\repos\Demo_ETradeApp\BuisnessLayer\obj\Debug\net6.0\BuisnessLayer.csproj.CopyComplete
+C:\Users\Emir\source\repos\Demo_ETradeApp\BuisnessLayer\obj\Debug\net6.0\BuisnessLayer.dll
+C:\Users\Emir\source\repos\Demo_ETradeApp\BuisnessLayer\obj\Debug\net6.0\refint\BuisnessLayer.dll
+C:\Users\Emir\source\repos\Demo_ETradeApp\BuisnessLayer\obj\Debug\net6.0\BuisnessLayer.pdb
+C:\Users\Emir\source\repos\Demo_ETradeApp\BuisnessLayer\obj\Debug\net6.0\ref\BuisnessLayer.dll
+C:\Users\Emir\source\repos\Demo_ETradeApp\BuisnessLayer\bin\Debug\net6.0\EntitiyLayer.dll
+C:\Users\Emir\source\repos\Demo_ETradeApp\BuisnessLayer\bin\Debug\net6.0\EntitiyLayer.pdb

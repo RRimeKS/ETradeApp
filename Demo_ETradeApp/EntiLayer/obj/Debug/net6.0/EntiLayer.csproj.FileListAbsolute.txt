@@ -1,0 +1,12 @@
+C:\Users\Emir\source\repos\Demo_ETradeApp\EntiLayer\bin\Debug\net6.0\EntiLayer.deps.json
+C:\Users\Emir\source\repos\Demo_ETradeApp\EntiLayer\bin\Debug\net6.0\EntiLayer.dll
+C:\Users\Emir\source\repos\Demo_ETradeApp\EntiLayer\bin\Debug\net6.0\EntiLayer.pdb
+C:\Users\Emir\source\repos\Demo_ETradeApp\EntiLayer\obj\Debug\net6.0\EntiLayer.csproj.AssemblyReference.cache
+C:\Users\Emir\source\repos\Demo_ETradeApp\EntiLayer\obj\Debug\net6.0\EntiLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir\source\repos\Demo_ETradeApp\EntiLayer\obj\Debug\net6.0\EntiLayer.AssemblyInfoInputs.cache
+C:\Users\Emir\source\repos\Demo_ETradeApp\EntiLayer\obj\Debug\net6.0\EntiLayer.AssemblyInfo.cs
+C:\Users\Emir\source\repos\Demo_ETradeApp\EntiLayer\obj\Debug\net6.0\EntiLayer.csproj.CoreCompileInputs.cache
+C:\Users\Emir\source\repos\Demo_ETradeApp\EntiLayer\obj\Debug\net6.0\EntiLayer.dll
+C:\Users\Emir\source\repos\Demo_ETradeApp\EntiLayer\obj\Debug\net6.0\refint\EntiLayer.dll
+C:\Users\Emir\source\repos\Demo_ETradeApp\EntiLayer\obj\Debug\net6.0\EntiLayer.pdb
+C:\Users\Emir\source\repos\Demo_ETradeApp\EntiLayer\obj\Debug\net6.0\ref\EntiLayer.dll

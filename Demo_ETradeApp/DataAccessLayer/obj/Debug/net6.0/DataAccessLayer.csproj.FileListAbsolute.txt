@@ -1,0 +1,17 @@
+C:\Users\Emir\source\repos\Demo_ETradeApp\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Emir\source\repos\Demo_ETradeApp\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir\source\repos\Demo_ETradeApp\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Emir\source\repos\Demo_ETradeApp\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Emir\source\repos\Demo_ETradeApp\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Emir\source\repos\Demo_ETradeApp\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\Emir\source\repos\Demo_ETradeApp\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Emir\source\repos\Demo_ETradeApp\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\Emir\source\repos\Demo_ETradeApp\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\Emir\source\repos\Demo_ETradeApp\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\Emir\source\repos\Demo_ETradeApp\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\Emir\source\repos\Demo_ETradeApp\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\Emir\source\repos\Demo_ETradeApp\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\Emir\source\repos\Demo_ETradeApp\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\Emir\source\repos\Demo_ETradeApp\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\Emir\source\repos\Demo_ETradeApp\DataAccessLayer\bin\Debug\net6.0\EntitiyLayer.dll
+C:\Users\Emir\source\repos\Demo_ETradeApp\DataAccessLayer\bin\Debug\net6.0\EntitiyLayer.pdb
