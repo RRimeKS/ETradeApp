@@ -6,6 +6,7 @@
 <br />
 <h1>Ürün Güncelle</h1>
 <form method="post">
+    @Html.HiddenFor(x=>x.ProductId)
     @Html.Label("Ürün Adı")
     @Html.TextBoxFor(x=>x.ProductName, new{@class="form-control"})
     <br />
